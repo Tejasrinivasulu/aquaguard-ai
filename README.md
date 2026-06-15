@@ -1,375 +1,274 @@
-````markdown
+```html
 <div align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2909/2909592.png" width="140"/>
+<h1>🌊 AquaGuard AI</h1>
 
-# 🌊 AquaGuard AI
+<h3>AI-Powered Plastic Pollution Monitoring & Ocean Protection Platform</h3>
 
-### AI-Powered Plastic Pollution Monitoring & Ocean Protection Platform
+<p><b>Detect • Monitor • Respond • Protect</b></p>
 
-<p>
-Detect • Monitor • Respond • Protect
-</p>
-
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet)
-![AI](https://img.shields.io/badge/AI-Powered-success?style=for-the-badge)
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss">
+<img src="https://img.shields.io/badge/AI-Powered-success?style=for-the-badge">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+Powered+Ocean+Protection+Platform;Plastic+Pollution+Monitoring+System;Citizen+Government+NGO+Collaboration;UAV+and+Satellite+Based+Monitoring;Protecting+Waterways+Through+Technology">
+<h2>📖 About AquaGuard AI</h2>
 
-</div>
+<p align="justify">
+AquaGuard AI is an intelligent environmental monitoring platform that helps detect, track, and manage plastic pollution in oceans, rivers, lakes, and coastal regions. The platform connects citizens, NGOs, field workers, and government authorities through AI-powered reporting, UAV monitoring, cleanup mission management, and environmental analytics.
+</p>
 
----
+<hr>
 
-# 🌍 About AquaGuard AI
+<h2>🚀 Key Features</h2>
 
-AquaGuard AI is an intelligent environmental monitoring platform designed to detect, track, and manage plastic pollution across oceans, rivers, lakes, and coastal regions. The platform connects citizens, NGOs, field workers, and government authorities through AI-assisted reporting, UAV surveillance, mission management, and environmental impact tracking.
+<table>
+<tr>
+<th>Feature</th>
+<th>Description</th>
+</tr>
 
-By combining Artificial Intelligence, satellite monitoring, drone technology, and real-time mapping, AquaGuard AI enables faster response, efficient cleanup operations, and measurable environmental improvement.
+<tr>
+<td>🤖 AI Detection</td>
+<td>Detect plastic waste and analyze pollution severity</td>
+</tr>
 
----
+<tr>
+<td>🚁 UAV Monitoring</td>
+<td>Drone surveillance and automated dispatch suggestions</td>
+</tr>
 
-# ✨ Key Features
+<tr>
+<td>🛰️ Satellite Support</td>
+<td>Environmental hotspot monitoring and tracking</td>
+</tr>
 
-## 👤 Citizen Portal
+<tr>
+<td>🗺️ Smart Maps</td>
+<td>Interactive pollution maps with live tracking</td>
+</tr>
 
-- 📸 Report Plastic Pollution
-- 📍 Live Location Mapping
-- 🤖 AI Waste Detection
-- 🔔 Pollution Alerts
-- 🏆 Rewards & Achievements
-- 📊 Personal Dashboard
-- 🗺 Nearby Pollution Hotspots
-- 📢 Notifications & Updates
+<tr>
+<td>🏆 Rewards</td>
+<td>Citizen reward points and achievement system</td>
+</tr>
 
----
+<tr>
+<td>📊 Analytics</td>
+<td>Environmental reports and pollution trends</td>
+</tr>
 
-## 🏢 NGO Dashboard
+</table>
 
-- 📋 Citizen Request Management
-- 🚛 Cleanup Mission Planning
-- 📈 Environmental Analytics
-- 👷 Worker Assignment
-- 📷 Cleanup Proof Submission
-- 📊 Mission Performance Tracking
+<hr>
 
----
+<h2>👤 Citizen Dashboard</h2>
 
-## 🛡 Authority Dashboard
+<ul>
+<li>📸 Report Pollution</li>
+<li>📍 Nearby Pollution Hotspots</li>
+<li>📋 My Reports</li>
+<li>🔔 Notifications</li>
+<li>🏆 Rewards & Achievements</li>
+<li>👤 Profile Management</li>
+<li>⚙️ Settings</li>
+</ul>
 
-- ✅ Verify Pollution Reports
-- ✅ Verify Cleanup Missions
-- 🚁 UAV Fleet Monitoring
-- 📡 Satellite Surveillance
-- 📊 State-wide Analytics
-- 👥 Citizen Management
-- 🏢 NGO Monitoring
-- 👷 Worker Registry
+<hr>
 
----
+<h2>🏢 NGO Dashboard</h2>
 
-## 👷 Field Worker Dashboard
+<ul>
+<li>📥 Citizen Requests</li>
+<li>🚛 Cleanup Mission Management</li>
+<li>📅 Mission Scheduling</li>
+<li>📸 Cleanup Proof Submission</li>
+<li>📈 Environmental Impact Tracking</li>
+<li>📊 Analytics Dashboard</li>
+</ul>
 
-- 📍 Assigned Missions
-- 📅 Regional Tasks
-- 📸 Cleanup Verification
-- 🏆 Reward Points
-- 📊 Personal Statistics
+<hr>
 
----
+<h2>👷 Field Worker Dashboard</h2>
 
-# 🚀 System Workflow
+<ul>
+<li>📋 Assigned Missions</li>
+<li>📍 Regional Task Tracking</li>
+<li>🔄 Mission Status Updates</li>
+<li>📸 Field Reports</li>
+<li>🏆 Reward Points</li>
+</ul>
 
-```text
+<hr>
+
+<h2>🛡️ Admin / Authority Dashboard</h2>
+
+<ul>
+<li>✅ Verify Pollution Reports</li>
+<li>✅ Verify Cleanup Missions</li>
+<li>👥 Manage Workers & NGOs</li>
+<li>🚁 UAV Monitoring</li>
+<li>📊 Environmental Analytics</li>
+<li>📈 Pollution Statistics</li>
+<li>🌍 Platform Monitoring</li>
+</ul>
+
+<hr>
+
+<h2>🔄 Workflow</h2>
+
+<pre>
 Citizen Reports Pollution
-           ↓
+          ↓
 AI Detection & Analysis
-           ↓
+          ↓
 Authority Verification
-           ↓
+          ↓
 NGO Assignment
-           ↓
-Worker Deployment
-           ↓
+          ↓
+Mission Creation
+          ↓
+Field Worker Deployment
+          ↓
 Cleanup Operation
-           ↓
+          ↓
 Proof Submission
-           ↓
+          ↓
 Authority Approval
-           ↓
-Rewards & Environmental Impact
-```
+          ↓
+Rewards & Impact Tracking
+</pre>
 
----
+<hr>
 
-# 🤖 AI Features
+<h2>🛠️ Technology Stack</h2>
 
-### Plastic Detection AI
+<table>
+<tr>
+<th>Category</th>
+<th>Technology</th>
+</tr>
 
-- Waste Classification
-- Plastic Identification
-- Severity Analysis
-- Object Detection
-- Environmental Risk Assessment
+<tr>
+<td>Frontend</td>
+<td>React 18</td>
+</tr>
 
-### Smart Recommendations
+<tr>
+<td>Language</td>
+<td>TypeScript</td>
+</tr>
 
-- Priority Scoring
-- Cleanup Suggestions
-- Resource Allocation
-- Risk Prediction
+<tr>
+<td>Build Tool</td>
+<td>Vite</td>
+</tr>
 
-### Satellite Intelligence
+<tr>
+<td>Styling</td>
+<td>Tailwind CSS</td>
+</tr>
 
-- Waterbody Monitoring
-- Pollution Tracking
-- Hotspot Detection
-- Environmental Analysis
+<tr>
+<td>Maps</td>
+<td>Leaflet + React Leaflet</td>
+</tr>
 
----
+<tr>
+<td>Charts</td>
+<td>Recharts</td>
+</tr>
 
-# 🚁 UAV & Drone Operations
+<tr>
+<td>Backend</td>
+<td>Node.js + Hono</td>
+</tr>
 
-- Automated UAV Dispatch
-- Drone Surveillance
-- Cleanup Monitoring
-- Live Mission Tracking
-- Satellite Synchronization
-- Fleet Management Dashboard
+<tr>
+<td>Database</td>
+<td>Prisma + SQLite</td>
+</tr>
 
----
+</table>
 
-# 🗺 Mapping System
+<hr>
 
-### Interactive Maps
+<h2>⚙️ Installation</h2>
 
-- Leaflet Maps
-- React Leaflet
-- OpenStreetMap
-- Satellite View
-- Live Location Tracking
-- Pollution Heatmaps
-
----
-
-# 📊 Analytics Dashboard
-
-### Citizen Analytics
-
-- Reports Submitted
-- Rewards Earned
-- Cleanup Contributions
-- Achievement Progress
-
-### NGO Analytics
-
-- Active Missions
-- Mission Success Rate
-- Cleanup Performance
-- Environmental Impact
-
-### Authority Analytics
-
-- Pollution Trends
-- Regional Statistics
-- UAV Operations
-- NGO Performance
-
----
-
-# 🛠 Technology Stack
-
-| Category | Technology |
-|-----------|-----------|
-| Frontend | React 18 |
-| Language | TypeScript |
-| Build Tool | Vite |
-| Styling | Tailwind CSS |
-| UI Components | shadcn/ui |
-| Routing | React Router v6 |
-| Maps | Leaflet + React Leaflet |
-| Charts | Recharts |
-| Forms | React Hook Form + Zod |
-| State | React Query + localStorage |
-| Backend | Node.js + Hono |
-| Database | SQLite + Prisma |
-| Theme | next-themes |
-
----
-
-# 📂 Project Structure
-
-```bash
-AquaGuard-AI/
-│
-├── server/
-│   ├── prisma/
-│   ├── routes/
-│   └── database/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── layouts/
-│   ├── hooks/
-│   ├── lib/
-│   └── App.tsx
-│
-├── ml/
-│   ├── plastic-detection/
-│   ├── satellite-monitoring/
-│   └── prediction-models/
-│
-├── public/
-├── package.json
-└── vite.config.ts
-```
-
----
-
-# ⚙️ Installation
-
-## Clone Repository
-
-```bash
+<pre>
 git clone https://github.com/your-username/AquaGuard-AI.git
-```
 
-## Open Project
-
-```bash
 cd AquaGuard-AI
-```
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
-## Start Development Server
-
-```bash
-npm run dev
-```
-
-Application runs at:
-
-```bash
-http://localhost:5173
-```
-
----
-
-# 🗄 Optional Database Setup
-
-```bash
-cd server
 
 npm install
 
-npx prisma generate
-
-npx prisma db push
-
 npm run dev
-```
+</pre>
 
-API runs on:
+<p>
+Application URL:
+<br>
+<b>http://localhost:5173</b>
+</p>
 
-```bash
-http://localhost:3001
-```
+<hr>
 
----
+<h2>🌱 Benefits</h2>
 
-# 👥 User Roles
+<ul>
+<li>✅ Reduces Plastic Pollution</li>
+<li>✅ Protects Oceans & Waterways</li>
+<li>✅ Encourages Community Participation</li>
+<li>✅ Supports Sustainable Development</li>
+<li>✅ Improves Environmental Monitoring</li>
+<li>✅ Enables Faster Cleanup Operations</li>
+</ul>
 
-| Role | Purpose |
-|--------|----------|
-| 👤 Citizen | Report pollution and earn rewards |
-| 🏢 NGO Partner | Manage cleanup missions |
-| 👷 Field Worker | Execute cleanup operations |
-| 🛡 Authority | Verify reports and manage ecosystem |
+<hr>
 
----
+<h2>👨‍💻 Developer</h2>
 
-# 🌱 Environmental Impact
+<h3>Teja Srinivasulu</h3>
 
-- Reduce Plastic Pollution
-- Protect Marine Life
-- Improve Water Quality
-- Enable Community Participation
-- Support Sustainable Development Goals
-- Promote Smart Environmental Governance
-
----
-
-# 🎯 Future Enhancements
-
-- 🌐 Real-Time Satellite Integration
-- 🤖 Advanced Computer Vision Models
-- 📱 Mobile Applications
-- 🚁 Autonomous Drone Navigation
-- 🛰 IoT Sensor Networks
-- 🔔 Real-Time Emergency Alerts
-- 📈 Predictive Pollution Analytics
-- 🌎 Global Water Monitoring
-
----
-
-# 👨‍💻 Developer
-
-## Teja Srinivasulu
-
-🎓 B.Tech CSE Student
-
-💻 Full Stack Developer
-
-🏆 ISTE Club Coordinator
-
-🚀 Hackathon Enthusiast
-
-🏅 ServiceNow CSA Certified
-
-🏅 ServiceNow CAD Certified
-
-🥉 NHETIS Hackathon 3rd Prize Winner
-
+<p>
+🎓 B.Tech CSE Student <br>
+💻 Full Stack Developer <br>
+🏆 ISTE Club Coordinator <br>
+🏅 ServiceNow CSA Certified <br>
+🏅 ServiceNow CAD Certified <br>
+🥉 NHETIS Hackathon 3rd Prize Winner <br>
 📍 Mohan Babu University
+</p>
 
----
+<hr>
 
-# ⭐ Support
+<h2>⭐ Support</h2>
 
-If you found this project useful:
-
-⭐ Star the Repository
-
-🍴 Fork the Project
-
+<p>
+⭐ Star this Repository <br>
+🍴 Fork this Repository <br>
+💡 Contribute New Features <br>
 📢 Share with Others
+</p>
 
-💡 Contribute New Features
+<hr>
 
----
+<h2>🌊 AquaGuard AI</h2>
 
-<div align="center">
+<p>
+<b>AI-Powered Detection, Monitoring & Cleanup Management</b>
+</p>
 
-# 🌊 AquaGuard AI
+<p>
+Protecting Oceans, Rivers & Lakes Through Technology & Innovation
+</p>
 
-### AI-Powered Detection, Coordinated Response & Cleaner Waterways
-
-### Protecting Oceans Through Innovation & Artificial Intelligence
-
+<p>
 Made with ❤️ using React, TypeScript, AI, UAVs & Environmental Technology
-
-⭐ Star this Repository if you support a cleaner planet ⭐
+</p>
 
 </div>
-````
+```
